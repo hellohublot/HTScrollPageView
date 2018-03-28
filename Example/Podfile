@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HTScrollPageView_Example' do
+  pod 'HTScrollPageView', :path => '../'
+
+  target 'HTScrollPageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
