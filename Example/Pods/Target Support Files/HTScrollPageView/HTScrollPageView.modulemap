@@ -1,0 +1,6 @@
+framework module HTScrollPageView {
+  umbrella header "HTScrollPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

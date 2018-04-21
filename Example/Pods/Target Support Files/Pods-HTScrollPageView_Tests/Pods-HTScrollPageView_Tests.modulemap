@@ -1,0 +1,6 @@
+framework module Pods_HTScrollPageView_Tests {
+  umbrella header "Pods-HTScrollPageView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

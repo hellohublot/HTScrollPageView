@@ -1,0 +1,16 @@
+PODS:
+  - HTScrollPageView (0.1.0)
+
+DEPENDENCIES:
+  - HTScrollPageView (from `../`)
+
+EXTERNAL SOURCES:
+  HTScrollPageView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HTScrollPageView: cb5fe060fccb694c580823bd2dfab2e10a697730
+
+PODFILE CHECKSUM: 1eaad16ee5f6ac5c942702d00846b5c778a69a2e
+
+COCOAPODS: 1.4.0
